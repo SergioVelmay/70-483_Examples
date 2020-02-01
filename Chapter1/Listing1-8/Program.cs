@@ -12,7 +12,7 @@ namespace Chapter1
     {
         public static void Main()
         {
-            Task mytask = Task.Run(() => // A Task represents some work that should be done.
+            Task myTask = Task.Run(() => // A Task represents some work that should be done.
             {
                 for (int x = 0; x < 9; x++)
                 {
@@ -30,7 +30,7 @@ namespace Chapter1
 
             Console.WriteLine("Thread {0} - TASK START", Thread.CurrentThread.ManagedThreadId);
 
-            mytask.Wait(); // Start a new Task and wait until it’s finished.
+            myTask.Wait(); // Start a new Task and wait until it’s finished.
 
             Console.WriteLine("Thread {0} - TASK END", Thread.CurrentThread.ManagedThreadId);
         }
