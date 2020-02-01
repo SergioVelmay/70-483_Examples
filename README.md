@@ -13,3 +13,6 @@ Examples from the Programming in C# Microsoft Exam Ref 70-483 Book written by Wo
 - LISTING 1-5 Using the ThreadStaticAttribute
 - LISTING 1-6 Using ThreadLocal
 - LISTING 1-7 Queuing some work to the thread pool
+
+#### Using Tasks
+- LISTING 1-8 Starting a new Task
