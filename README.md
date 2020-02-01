@@ -16,3 +16,8 @@ Examples from the Programming in C# Microsoft Exam Ref 70-483 Book written by Wo
 
 #### Using Tasks
 - LISTING 1-8 Starting a new Task
+- LISTING 1-9 Using a Task that returns a value
+- LISTING 1-10 Adding a continuation
+- LISTING 1-11 Scheduling different continuation tasks
+- LISTING 1-12 Attaching child tasks to a parent task
+- LISTING 1-13 Using a TaskFactory
