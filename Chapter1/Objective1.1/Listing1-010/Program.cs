@@ -5,7 +5,7 @@ using System.Threading.Tasks;
  * LISTING 1-10 Adding a continuation
  */
 
-namespace Chapter1
+namespace Listing1_010
 {
     public static class Program
     {

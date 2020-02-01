@@ -5,7 +5,7 @@ using System.Threading;
  * LISTING 1-1 Creating a thread with the Thread class
  */
 
-namespace Chapter1
+namespace Listing1_001
 {
     public static class Program
     {

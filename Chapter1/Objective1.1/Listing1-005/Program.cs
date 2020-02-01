@@ -5,7 +5,7 @@ using System.Threading;
  * LISTING 1-5 Using the ThreadStaticAttribute
  */
 
-namespace Chapter1
+namespace Listing1_005
 {
     public static class Program
     {

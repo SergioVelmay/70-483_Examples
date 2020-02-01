@@ -2,10 +2,10 @@
 using System.Threading;
 
 /*
- * LISTING 2-14 Using a where clause on a class definition
+ * LISTING 1-4 Stopping a thread
  */
 
-namespace Chapter1
+namespace Listing1_004
 {
     public static class Program
     {

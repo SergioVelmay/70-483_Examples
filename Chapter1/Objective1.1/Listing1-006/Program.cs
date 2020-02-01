@@ -5,7 +5,7 @@ using System.Threading;
  * LISTING 1-6 Using ThreadLocal<T>
  */
 
-namespace Chapter1
+namespace Listing1_006
 {
     public static class Program
     {

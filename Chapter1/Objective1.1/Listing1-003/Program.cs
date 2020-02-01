@@ -5,7 +5,7 @@ using System.Threading;
  * LISTING 1-3 Using the ParameterizedThreadStart
  */
 
-namespace Chapter1
+namespace Listing1_003
 {
     public static class Program
     {

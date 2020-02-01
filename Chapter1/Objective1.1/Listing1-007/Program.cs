@@ -5,7 +5,7 @@ using System.Threading;
  * LISTING 1-7 Queuing some work to the thread pool
  */
 
-namespace Chapter1
+namespace Listing1_007
 {
     public static class Program
     {

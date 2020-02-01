@@ -6,7 +6,7 @@ using System.Threading.Tasks;
  * LISTING 1-8 Starting a new Task
  */
 
-namespace Chapter1
+namespace Listing1_008
 {
     public static class Program
     {

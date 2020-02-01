@@ -5,7 +5,7 @@ using System.Threading.Tasks;
  * LISTING 1-9 Using a Task that returns a value.
  */
 
-namespace Chapter1
+namespace Listing1_009
 {
     public static class Program
     {

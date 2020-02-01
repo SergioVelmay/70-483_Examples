@@ -5,7 +5,7 @@ using System.Threading.Tasks;
  * LISTING 1-11 Scheduling different continuation tasks
  */
 
-namespace Chapter1
+namespace Listing1_011
 {
     public static class Program
     {
