@@ -25,4 +25,7 @@ Examples from the Programming in C# Microsoft Exam Ref 70-483 Book written by Wo
 - LISTING 1-15 Using Task.WaitAny
 
 #### Using the Parallel class
-- LISTING 1-16 Using Parallel.For and Parallel.Foreach
+- LISTING 1-16 Using Parallel.For and Parallel.ForEach
+- LISTING 1-17 Using Parallel.Break
+
+#### Using async and await
