@@ -21,3 +21,8 @@ Examples from the Programming in C# Microsoft Exam Ref 70-483 Book written by Wo
 - LISTING 1-11 Scheduling different continuation tasks
 - LISTING 1-12 Attaching child tasks to a parent task
 - LISTING 1-13 Using a TaskFactory
+- LISTING 1-14 Using Task.WaitAll
+- LISTING 1-15 Using Task.WaitAny
+
+#### Using the Parallel class
+- LISTING 1-16 Using Parallel.For and Parallel.Foreach
