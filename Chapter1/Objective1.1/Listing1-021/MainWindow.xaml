@@ -1,0 +1,24 @@
+﻿<Window x:Class="Listing1_021.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Listing1_021"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <Button x:Name="button"
+            Grid.Row="0"
+            Content="Press to Click"
+            Click="ButtonClick"
+            ClickMode="Press"
+            Foreground="Blue" />
+        <TextBlock x:Name="textBlock"
+            Grid.Row="1" 
+            Padding="0,15,0,0" />
+    </Grid>
+</Window>

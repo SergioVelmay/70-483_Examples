@@ -31,3 +31,7 @@ Examples from the Programming in C# Microsoft Exam Ref 70-483 Book written by Wo
 #### D. Using Async and Await
 - LISTING 1-18 Async and Await
 - LISTING 1-19 Scalability versus responsiveness
+- LISTING 1-20 Using ConfigureAwait
+- LISTING 1-21 Continuing on a thread pool instead of the UI thread
+
+#### E. Using Parallel Language Integrated Query (PLINQ)
