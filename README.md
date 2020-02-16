@@ -35,3 +35,5 @@ Examples from the Programming in C# Microsoft Exam Ref 70-483 Book written by Wo
 - LISTING 1-21 Continuing on a thread pool instead of the UI thread
 
 #### E. Using Parallel Language Integrated Query (PLINQ)
+- LISTING 1-22 Using AsParallel
+- LISTING 1-23 Unordered parallel query
